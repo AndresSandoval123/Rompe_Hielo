@@ -8,11 +8,19 @@
 Esta es **Mi Casa 🏠**, y tu misión será **amoblarla**. Para lograrlo, cada grupo será responsable de una habitación específica.  
 
 La casa se compone de:  
-- Habitación principal  
-- Habitación de los niños  
-- Sala  
-- Cocina  
-- Baño  
+1 Habitación principal  
+2 Habitación del niño
+3 Habitación de la niña
+4 Habitación de la mascota
+5 Estudio
+6 Sala  
+7 Cocina
+8 Comedor  
+9 Baño privado
+10 Baño publico
+11 Patio
+12 Terraza
+13 Sotano
 
 ¿Fácil, verdad? 😄  
 
@@ -50,3 +58,4 @@ El reto debe cumplirse en **12 minutos**:
 
 ## ⬆️ 6. Subir la rama a GitHub
 💻 git push -u origin nombre-de-la-habitacion  
+
